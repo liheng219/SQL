@@ -65,3 +65,4 @@ CROSS JOIN (
     FROM commission_rates
 ) r;
 
+-- kết nối file với power BI để làm report
