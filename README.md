@@ -43,13 +43,14 @@ Dự án sử dụng bộ dữ liệu mô phỏng bao gồm:
 * KPI thực hiện
 * Tỷ lệ hoàn thành KPI (%)
 * Doanh thu theo nhân viên Sales
-  #### SQL script [here](SQL script/Achievement Rate.sql)
+  #### SQL script [here](SQL_script/Achievement_Rate.sql)
   
 ### Hoa hồng & Incentive
 
 * Hoa hồng phát sinh
 * Tỷ lệ hoàn thành điều kiện thưởng
 * Xếp hạng hiệu suất nhân viên
+  #### SQL script [here](SQL_script/sale_commission.sql)
 
 ### Quản lý hợp đồng
 
@@ -57,16 +58,16 @@ Dự án sử dụng bộ dữ liệu mô phỏng bao gồm:
 * Hợp đồng sắp hết hạn
 * Hợp đồng đã hết hạn
 * Tỷ lệ thực hiện sản lượng cam kết
+  #### SQL script [here](SQL_script/contract_Risk.sql)
 
 ### Phân tích vận hành
 
 * Hiệu quả khách hàng
-* Xu hướng doanh thu theo thời gian
-* Dự báo sản lượng
 * Các trường hợp chưa đạt cam kết
+* Doanh thu thất thoát nếu khách không đạt cam kết
+  #### SQL script [here](SQL_script/Revenue_Leakage.sql)
 
 ---
-
 ## Dashboard
 
 ### Executive Overview
