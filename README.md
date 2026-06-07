@@ -29,7 +29,8 @@ Dự án sử dụng bộ dữ liệu mô phỏng bao gồm:
 * Nhân viên kinh doanh (Employees)
 * KPI mục tiêu (Sales KPI Targets)
 * Chính sách hoa hồng (Commission Rates)
-  ![Database structure]
+#### Database structure
+  ![Database structure](images/data_structure.png)
 
 ---
 
@@ -37,12 +38,13 @@ Dự án sử dụng bộ dữ liệu mô phỏng bao gồm:
 
 ### Hiệu suất kinh doanh
 
-* Tổng doanh thu
+* Doanh thu
 * Tổng sản lượng giao hàng
 * KPI thực hiện
 * Tỷ lệ hoàn thành KPI (%)
 * Doanh thu theo nhân viên Sales
-
+  #### SQL script [here](SQL script/Achievement Rate.sql)
+  
 ### Hoa hồng & Incentive
 
 * Hoa hồng phát sinh
@@ -76,6 +78,8 @@ Cung cấp cái nhìn tổng quan về:
 * Tỷ lệ hoàn thành KPI
 * Hoa hồng
 * Hiệu suất kinh doanh
+  
+![Excutive_Overview](images/Executive_Overview.png)
 
 ## Kết quả phân tích
 
