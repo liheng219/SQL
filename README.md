@@ -76,7 +76,6 @@ Cung cấp cái nhìn tổng quan về:
 * Phát hiện khách hàng có sản lượng thấp hơn mức cam kết.
 * Theo dõi các hợp đồng cần gia hạn trong thời gian tới.
 * Đánh giá mức độ đóng góp doanh thu của từng khách hàng và nhân viên Sales.
-* Hỗ trợ lập kế hoạch doanh thu và phân bổ chỉ tiêu cho các kỳ tiếp theo.
 
 ---
 
