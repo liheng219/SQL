@@ -8,18 +8,6 @@ Thông qua việc kết hợp SQL và Power BI, dự án giúp chuyển đổi d
 
 ---
 
-## Mục tiêu kinh doanh
-
-Dự án tập trung giải quyết các bài toán:
-
-* Theo dõi doanh thu và sản lượng thực tế của từng Sales.
-* Đánh giá mức độ hoàn thành KPI theo tháng.
-* Tính toán incentive và hoa hồng dựa trên kết quả thực hiện.
-* Theo dõi tình trạng thực hiện hợp đồng của khách hàng.
-* Phát hiện các vấn đề vận hành ảnh hưởng đến hiệu quả kinh doanh.
-
----
-
 ## Dữ liệu sử dụng
 
 Dự án sử dụng bộ dữ liệu mô phỏng bao gồm:
